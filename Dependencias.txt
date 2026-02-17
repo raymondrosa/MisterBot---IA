@@ -1,0 +1,24 @@
+Dependencias:
+
+pip install langchain-text-splitters
+pip install langchain langchain-text-splitters
+pip install langchain==0.0.352
+pip install langchain langchain-core langchain-community
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+
+
+
+
+------------------------------------------------
+
+ollama list
+
+Debe responder:
+ollama run llama3
+ollama pull nomic-embed-text
+
+Motor en otro terminal abierto: 
+ollama serve
+
+
+
