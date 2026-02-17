@@ -6,11 +6,10 @@ pip install langchain==0.0.352
 pip uninstall langchain-community
 pip install langchain-community==0.0.10
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-
-
-
-
 ------------------------------------------------
+
+
+--------------------
 
 ollama list
 
@@ -18,8 +17,7 @@ Debe responder:
 ollama run llama3
 ollama pull nomic-embed-text
 
-Motor en otro terminal abierto: 
-ollama serve
+
 
 
 
