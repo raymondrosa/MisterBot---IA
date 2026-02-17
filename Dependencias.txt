@@ -3,7 +3,8 @@ Dependencias:
 pip install langchain-text-splitters
 pip install langchain langchain-text-splitters
 pip install langchain==0.0.352
-pip install langchain langchain-core langchain-community
+pip uninstall langchain-community
+pip install langchain-community==0.0.10
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 

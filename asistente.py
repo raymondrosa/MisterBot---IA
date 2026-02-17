@@ -77,12 +77,12 @@ def cargar_sistema():
 # -------------------------
 st.set_page_config(page_title="Asistente Investigador", layout="wide")
 
-st.title("🧠 Asistente Investigador")
+st.title("🤖 MisterBot")
 st.caption("Memoria persistente activada · Modo análisis")
 
 qa_chain = cargar_sistema()
 
-pregunta = st.text_input("🧠 Escribe tu pregunta:")
+pregunta = st.text_input("🤖 Dime:")
 
 if pregunta:
     with st.spinner("Pensando..."):

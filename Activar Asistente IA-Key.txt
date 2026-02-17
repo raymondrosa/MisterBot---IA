@@ -2,9 +2,7 @@ Activar Asistente IA:
 
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 .\venv\Scripts\Activate.ps1
-streamlit run app.py
 streamlit run asistente.py
-
 
 
 AI: Directo del Terminal
