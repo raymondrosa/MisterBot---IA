@@ -8,6 +8,5 @@ streamlit run asistente.py
 AI: Directo del Terminal
 ollama run mistral
 
-Funciona raro:
-python .\consultar.py    
-
+Motor en otro terminal abierto: 
+ollama serve
