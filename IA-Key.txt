@@ -2,7 +2,7 @@ Activar Asistente IA:
 
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 .\venv\Scripts\Activate.ps1
-streamlit run asistente.py
+streamlit run MisterBot.py
 
 
 AI: Directo del Terminal
