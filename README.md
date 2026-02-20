@@ -1,5 +1,7 @@
 # MisterBot-IA
 Licencia: cc-NC; 2602194625113
+Desarrollado por Raymond Rosa Ávila; Puerto Rico
+
 🤖 MisterBot – Asistente Investigador con Memoria Persistente
 
 MisterBot es un asistente inteligente desarrollado con Streamlit + LangChain + Ollama + ChromaDB, diseñado para trabajar con:
